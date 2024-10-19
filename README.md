@@ -59,6 +59,8 @@ arduino
 Copy code
 http://127.0.0.1:8000/
 
+
+
 ## Usages
 Home Page: The homepage displays a list of all users and provides options to add a new user or update/delete an existing user.
 Add User: Use the form on the homepage to add a new user.
