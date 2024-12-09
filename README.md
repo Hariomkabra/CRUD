@@ -30,7 +30,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/django-crud.git
+git clone https://github.com/Hariomkabra/django-crud.git
 cd django-crud
 Create and activate a virtual environment:
 
